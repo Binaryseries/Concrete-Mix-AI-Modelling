@@ -53,10 +53,10 @@ $$\text{Minimize } f(\vec{x}) = \text{Cement Mass} + \text{Penalty}(\text{Streng
 
 ### Sample Optimization Output (Target: $30\text{ MPa}$ at $28\text{ Days}$)
 - **Predicted Compressive Strength:** $30.00\text{ MPa}$
-- **Cement:** $320.00\text{ kg/m}^3
-- **Fine Aggregate (Sand):** $680.00\text{ kg/m}^3
-- **Coarse Aggregate (Granite):** $1180.00\text{ kg/m}^3
-- **Water:** $160.00\text{ kg/m}^3
+- **Cement:** $320.00\text{ kg/m}^3$
+- **Fine Aggregate (Sand):** $680.00\text{ kg/m}^3$
+- **Coarse Aggregate (Granite):** $1180.00\text{ kg/m}^3$
+- **Water:** $160.00\text{ kg/m}^3$
 - **$w/c$ Ratio:** 0.50
 
 ---
